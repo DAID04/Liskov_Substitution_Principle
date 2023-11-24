@@ -1,1 +1,1 @@
-# Liskov_Substitution_Principle
+# Liskov_Substitution_Principle_&_Interface_Segregation
